@@ -11,4 +11,5 @@ PROPERTY LISTINGS: Browse a wide range of properties available for sale or rent.
 ADVANCED SEARCH FILTERS : Use filters to narrow down your search based on location, price, type of property.
 USER PROFILES: Create and manage your profile to save favourite listings.
 RESPONSIVE DESIGN: Access the platform on any device, whether it is a desktop, tablet or smartphone.
+and thats all folks.
 
